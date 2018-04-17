@@ -1,0 +1,1 @@
+box.style.backgroundColor = '#ccc';
